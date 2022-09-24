@@ -32,7 +32,7 @@ $(document).ready(function(){
     var typed = new Typed(".typing", {
         strings: ["Developer", "Blogger", "Designer"],
         typeSpeed: 100,
-        backSpeed: 60,
+        backSpeed: 70,
         loop: true
     });
 
